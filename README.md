@@ -5,3 +5,5 @@
 Treinamento de:
 - <p>HTML - Intermediario</p>
 - <p>CSS - Intermediario</p>
+
+<img width="1360" height="767" alt="RImg" src='F:\Programação\ClubDev\HTML\Responsividade\assets\RImg.png'>
